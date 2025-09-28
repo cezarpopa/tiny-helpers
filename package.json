@@ -45,8 +45,8 @@
     "postcss-clean": "^1.1.0",
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.1",
-    "puppeteer": "^10.1.0",
-    "puppeteer-core": "^21.0.2",
+    "puppeteer": "^24.10.2",
+    "puppeteer-core": "^22.13.1",
     "slugify": "^1.4.0",
     "terser": "^4.6.7"
   },
